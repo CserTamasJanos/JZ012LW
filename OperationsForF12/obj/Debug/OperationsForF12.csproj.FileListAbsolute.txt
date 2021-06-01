@@ -1,0 +1,6 @@
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\bin\Debug\OperationsForF12.dll
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\bin\Debug\OperationsForF12.pdb
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\obj\Debug\OperationsForF12.csprojAssemblyReference.cache
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\obj\Debug\OperationsForF12.csproj.CoreCompileInputs.cache
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\obj\Debug\OperationsForF12.dll
+C:\VisualStudioIskolaProjects\Feladatok12\OperationsForF12\obj\Debug\OperationsForF12.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\bin\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\bin\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\obj\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\obj\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\obj\Debug\ArgsDuties.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\bin\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\bin\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\obj\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\ArgsDuties\obj\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\InputCheck\bin\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\InputCheck\bin\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\InputCheck\obj\Debug\ArgsDuties.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\InputCheck\obj\Debug\ArgsDuties.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F015Console\InputCheck\obj\Debug\InputCheck.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\F016\InputCheck\bin\Debug\ArgsDuties.dll
+C:\Users\Tomi\source\repos\F016\InputCheck\bin\Debug\ArgsDuties.pdb
+C:\Users\Tomi\source\repos\F016\InputCheck\obj\Debug\ArgsDuties.dll
+C:\Users\Tomi\source\repos\F016\InputCheck\obj\Debug\ArgsDuties.pdb
+C:\Users\Tomi\source\repos\F016\InputCheck\obj\Debug\InputCheck.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\bin\Debug\ArgsDuties.dll
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\bin\Debug\ArgsDuties.pdb
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\obj\Debug\ArgsDuties.dll
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\obj\Debug\ArgsDuties.pdb
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\obj\Debug\InputCheck.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\F016FrameWork\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F016FrameWork\InputCheck\bin\Debug\ArgsDuties.dll
+C:\VisualStudioProjects\F016FrameWork\InputCheck\bin\Debug\ArgsDuties.pdb
+C:\VisualStudioProjects\F016FrameWork\InputCheck\obj\Debug\InputCheck.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F016FrameWork\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F016FrameWork\InputCheck\obj\Debug\ArgsDuties.dll
+C:\VisualStudioProjects\F016FrameWork\InputCheck\obj\Debug\ArgsDuties.pdb

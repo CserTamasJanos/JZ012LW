@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB10F0D2-DA24-4D74-B8FE-56395F603032}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Feladatok12</RootNamespace>
+    <AssemblyName>Feladatok12</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButtonEvents.Designer.cs">
+      <DependentUpon>ButtonEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Colorer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colorer.Designer.cs">
+      <DependentUpon>Colorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dice.Designer.cs">
+      <DependentUpon>Dice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dissertation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dissertation.Designer.cs">
+      <DependentUpon>Dissertation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dividers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dividers.Designer.cs">
+      <DependentUpon>Dividers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feladatok12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feladatok12.Designer.cs">
+      <DependentUpon>Feladatok12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelloWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelloWord.Designer.cs">
+      <DependentUpon>HelloWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HundredRandom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HundredRandom.Designer.cs">
+      <DependentUpon>HundredRandom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interval.Designer.cs">
+      <DependentUpon>Interval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBox.Designer.cs">
+      <DependentUpon>ListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operations.Designer.cs">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pythagorean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pythagorean.Designer.cs">
+      <DependentUpon>Pythagorean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuadraticEquation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuadraticEquation.Designer.cs">
+      <DependentUpon>QuadraticEquation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Smiley.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Smiley.Designer.cs">
+      <DependentUpon>Smiley.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StonePaperScissors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StonePaperScissors.Designer.cs">
+      <DependentUpon>StonePaperScissors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextFormat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextFormat.Designer.cs">
+      <DependentUpon>TextFormat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ButtonEvents.resx">
+      <DependentUpon>ButtonEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colorer.resx">
+      <DependentUpon>Colorer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dice.resx">
+      <DependentUpon>Dice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dissertation.resx">
+      <DependentUpon>Dissertation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dividers.resx">
+      <DependentUpon>Dividers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feladatok12.resx">
+      <DependentUpon>Feladatok12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelloWord.resx">
+      <DependentUpon>HelloWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HundredRandom.resx">
+      <DependentUpon>HundredRandom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interval.resx">
+      <DependentUpon>Interval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBox.resx">
+      <DependentUpon>ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operations.resx">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Pythagorean.resx">
+      <DependentUpon>Pythagorean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuadraticEquation.resx">
+      <DependentUpon>QuadraticEquation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Smiley.resx">
+      <DependentUpon>Smiley.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StonePaperScissors.resx">
+      <DependentUpon>StonePaperScissors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextFormat.resx">
+      <DependentUpon>TextFormat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Tasks\feladatok12.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="OperationsForF12\OperationsForF12.csproj">
+      <Project>{e0a38135-0089-494c-8811-bed9b6d441b4}</Project>
+      <Name>OperationsForF12</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
